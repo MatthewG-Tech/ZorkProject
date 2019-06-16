@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/matthewguerra/Documents/Programs/Zork/.metadata/.plugins/org.eclipse.jdt.core
+3629227282.index
+2016498483.index
